@@ -1,2 +1,2 @@
 # sshrat
-An SSH client wrapper providing RAT like functionality
+ A simple SSH client providing RAT like functionality. 
