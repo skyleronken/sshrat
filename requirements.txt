@@ -1,0 +1,5 @@
+cmd2
+paramiko
+scp
+gnureadline
+prettytable
